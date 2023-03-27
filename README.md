@@ -1,7 +1,7 @@
 # INDOLOGY-forum-archives
 ## Searchable archives of the INDOLOGY forum.
 
-The INDOLOGY forum is a Mailman list designed and maintained for professional scholars of the classical culture and languages of South Asia.  
+The [INDOLOGY forum](https://indology.info) is a Mailman list designed and maintained for professional scholars of the classical culture and languages of South Asia.  
 
 Since the first move to Mailman in 2013 (see History below), there have been ongoing, insoluble difficulties with the Mailman function for searching the forum's archive of messages.
 
