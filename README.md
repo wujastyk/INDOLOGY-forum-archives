@@ -1,5 +1,6 @@
 # INDOLOGY-forum-archives
 ## Searchable archives of the INDOLOGY forum.
+DOI: https://doi.org/10.5281/zenodo.7779012 . 
 
 The [INDOLOGY forum](https://list.indology.info/mailman/listinfo/indology) is a Mailman list designed and maintained for professional scholars of the classical culture and languages of South Asia.  
 
